@@ -1,0 +1,7 @@
+{
+  "name": "Tether UЅD",
+  "symbol": "UЅDT",
+  "description": "UЅDT jetton",
+  "image": "https://gamewiizzard.github.io/token-meta/USDT-TON.png",
+  "decimals": "9"
+}
